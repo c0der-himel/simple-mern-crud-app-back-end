@@ -4,8 +4,7 @@
   "description": "simple crud app using MERN stack",
   "main": "app.js",
   "scripts": {
-    "start": "node",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "author": "Himel",
   "license": "MIT",
